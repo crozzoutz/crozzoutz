@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @crozzoutz
-- 👀 I’m interested in ANDROID OS
-- 🌱 I’m currently learning AOSP FRAMEWORK , Android App Development
-- 💞️ I’m looking to collaborate on AOSP
+- 🌱 I’m currently learning Cybersecurity , Datascience
 - 📫 How to reach me harishz15987@gmail.com
 
 <!---
